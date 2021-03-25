@@ -1,0 +1,704 @@
+{
+  "data": {
+    "1": {
+      "placement": 1,
+      "name": "Лукас Хофер",
+      "hits": 10,
+      "time": "22:27.1",
+      "shootSpeed": 30
+    },
+    "2": {
+      "placement": 2,
+      "name": "Себастьян Самуэльссон",
+      "hits": 10,
+      "time": "22:31.1",
+      "shootSpeed": 25
+    },
+    "3": {
+      "placement": 3,
+      "name": "Тарьей Бё",
+      "hits": 10,
+      "time": "22:41.5",
+      "shootSpeed": 25
+    },
+    "4": {
+      "placement": 4,
+      "name": "Симон Дестьё",
+      "hits": 10,
+      "time": "22:49.5",
+      "shootSpeed": 10
+    },
+    "5": {
+      "placement": 5,
+      "name": "Кентен Фийон-Майе",
+      "hits": 9,
+      "time": "22:55.7",
+      "shootSpeed": 24
+    },
+    "6": {
+      "placement": 6,
+      "name": "Стурла Холм Легрейд",
+      "hits": 10,
+      "time": "22:59.0",
+      "shootSpeed": 11
+    },
+    "7": {
+      "placement": 7,
+      "name": "Йоханнес Тиннес Бё",
+      "hits": 8,
+      "time": "23:13.2",
+      "shootSpeed": 30
+    },
+    "8": {
+      "placement": 8,
+      "name": "Йоханнес Дале",
+      "hits": 8,
+      "time": "23:17.8",
+      "shootSpeed": 11
+    },
+    "9": {
+      "placement": 9,
+      "name": "Владимир Илиев",
+      "hits": 9,
+      "time": "23:22.2",
+      "shootSpeed": 21
+    },
+    "10": {
+      "placement": 10,
+      "name": "Роман Реес",
+      "hits": 10,
+      "time": "23:24.7",
+      "shootSpeed": 20
+    },
+    "11": {
+      "placement": 11,
+      "name": "Евгений Гараничев",
+      "hits": 10,
+      "time": "23:28.9",
+      "shootSpeed": 15
+    },
+    "12": {
+      "placement": 12,
+      "name": "Ветле-Шостад Кристиансен",
+      "hits": 9,
+      "time": "23:31.6",
+      "shootSpeed": 13
+    },
+    "13": {
+      "placement": 13,
+      "name": "Симон Эдер",
+      "hits": 10,
+      "time": "23:32.1",
+      "shootSpeed": 16
+    },
+    "14": {
+      "placement": 14,
+      "name": "Мартин Понсилуома",
+      "hits": 8,
+      "time": "23:34.5",
+      "shootSpeed": 28
+    },
+    "15": {
+      "placement": 15,
+      "name": "Тьерри Ланже",
+      "hits": 10,
+      "time": "23:37.6",
+      "shootSpeed": 20
+    },
+    "16": {
+      "placement": 16,
+      "name": "Александер-Фьелд Андерсен",
+      "hits": 9,
+      "time": "23:39.8",
+      "shootSpeed": 11
+    },
+    "17": {
+      "placement": 17,
+      "name": "Антон Смольский",
+      "hits": 9,
+      "time": "23:40.6",
+      "shootSpeed": 14
+    },
+    "18": {
+      "placement": 18,
+      "name": "Михал Крчмар",
+      "hits": 9,
+      "time": "23:42.3",
+      "shootSpeed": 10
+    },
+    "19": {
+      "placement": 19,
+      "name": "Якуб Штвртецки",
+      "hits": 9,
+      "time": "23:43.7",
+      "shootSpeed": 23
+    },
+    "20": {
+      "placement": 20,
+      "name": "Феликс Ляйтнер",
+      "hits": 9,
+      "time": "23:45.4",
+      "shootSpeed": 14
+    },
+    "21": {
+      "placement": 21,
+      "name": "Матвей Елисеев",
+      "hits": 9,
+      "time": "23:45.8",
+      "shootSpeed": 15
+    },
+    "22": {
+      "placement": 22,
+      "name": "Джейк Браун",
+      "hits": 9,
+      "time": "23:47.3",
+      "shootSpeed": 13
+    },
+    "23": {
+      "placement": 23,
+      "name": "Эдуард Латыпов",
+      "hits": 8,
+      "time": "23:49.9",
+      "shootSpeed": 23
+    },
+    "24": {
+      "placement": 24,
+      "name": "Эмильен Жаклен",
+      "hits": 8,
+      "time": "23:50.0",
+      "shootSpeed": 12
+    },
+    "25": {
+      "placement": 25,
+      "name": "Скотт Гоу",
+      "hits": 10,
+      "time": "23:50.3",
+      "shootSpeed": 25
+    },
+    "26": {
+      "placement": 26,
+      "name": "Александр Логинов",
+      "hits": 9,
+      "time": "23:52.3",
+      "shootSpeed": 22
+    },
+    "27": {
+      "placement": 27,
+      "name": "Доминик Виндиш",
+      "hits": 9,
+      "time": "23:52.6",
+      "shootSpeed": 16
+    },
+    "28": {
+      "placement": 28,
+      "name": "Цукаса Кобоноки",
+      "hits": 10,
+      "time": "23:54.2",
+      "shootSpeed": 23
+    },
+    "29": {
+      "placement": 29,
+      "name": "Беньямин Вегер",
+      "hits": 9,
+      "time": "23:55.6",
+      "shootSpeed": 16
+    },
+    "30": {
+      "placement": 30,
+      "name": "Александр Мухин",
+      "hits": 10,
+      "time": "23:56.2",
+      "shootSpeed": 11
+    },
+    "31": {
+      "placement": 31,
+      "name": "Бенедикт Долль",
+      "hits": 7,
+      "time": "23:56.5",
+      "shootSpeed": 21
+    },
+    "32": {
+      "placement": 32,
+      "name": "Яков Фак",
+      "hits": 9,
+      "time": "23:57.2",
+      "shootSpeed": 29
+    },
+    "33": {
+      "placement": 33,
+      "name": "Эрик Лессер",
+      "hits": 8,
+      "time": "23:57.6",
+      "shootSpeed": 11
+    },
+    "34": {
+      "placement": 34,
+      "name": "Дмитрий Пидручный",
+      "hits": 8,
+      "time": "24:02.9",
+      "shootSpeed": 12
+    },
+    "35": {
+      "placement": 35,
+      "name": "Давид Комац",
+      "hits": 10,
+      "time": "24:07.4",
+      "shootSpeed": 14
+    },
+    "36": {
+      "placement": 36,
+      "name": "Йеспер Нелин",
+      "hits": 7,
+      "time": "24:07.9",
+      "shootSpeed": 25
+    },
+    "37": {
+      "placement": 37,
+      "name": "Жереми Финелло",
+      "hits": 7,
+      "time": "24:13.6",
+      "shootSpeed": 14
+    },
+    "38": {
+      "placement": 38,
+      "name": "J. STRELOW",
+      "hits": 9,
+      "time": "24:13.6",
+      "shootSpeed": 10
+    },
+    "39": {
+      "placement": 39,
+      "name": "Сергей Бочарников",
+      "hits": 9,
+      "time": "24:14.1",
+      "shootSpeed": 10
+    },
+    "40": {
+      "placement": 40,
+      "name": "Максим Варабей",
+      "hits": 9,
+      "time": "24:15.8",
+      "shootSpeed": 20
+    },
+    "41": {
+      "placement": 41,
+      "name": "Антона Гигонна",
+      "hits": 8,
+      "time": "24:19.2",
+      "shootSpeed": 22
+    },
+    "42": {
+      "placement": 42,
+      "name": "Филипп Наврат",
+      "hits": 7,
+      "time": "24:19.7",
+      "shootSpeed": 26
+    },
+    "43": {
+      "placement": 43,
+      "name": "Пеппе Фемлинг",
+      "hits": 8,
+      "time": "24:19.9",
+      "shootSpeed": 15
+    },
+    "44": {
+      "placement": 44,
+      "name": "Флоран Клод",
+      "hits": 9,
+      "time": "24:20.8",
+      "shootSpeed": 25
+    },
+    "45": {
+      "placement": 45,
+      "name": "Терро Сеппяля",
+      "hits": 8,
+      "time": "24:22.7",
+      "shootSpeed": 16
+    },
+    "46": {
+      "placement": 46,
+      "name": "Томас Бормолини",
+      "hits": 8,
+      "time": "24:27.8",
+      "shootSpeed": 14
+    },
+    "47": {
+      "placement": 47,
+      "name": "Фабьен Клод",
+      "hits": 7,
+      "time": "24:30.0",
+      "shootSpeed": 29
+    },
+    "48": {
+      "placement": 48,
+      "name": "Антон Дудченко",
+      "hits": 9,
+      "time": "24:31.4",
+      "shootSpeed": 28
+    },
+    "49": {
+      "placement": 49,
+      "name": "Антон Синапов",
+      "hits": 8,
+      "time": "24:31.5",
+      "shootSpeed": 17
+    },
+    "50": {
+      "placement": 50,
+      "name": "Богдан Цымбал",
+      "hits": 9,
+      "time": "24:32.3",
+      "shootSpeed": 17
+    },
+    "51": {
+      "placement": 51,
+      "name": "Микулас Карлик",
+      "hits": 8,
+      "time": "24:33.4",
+      "shootSpeed": 15
+    },
+    "52": {
+      "placement": 52,
+      "name": "D. ZOBEL",
+      "hits": 8,
+      "time": "24:34.7",
+      "shootSpeed": 17
+    },
+    "53": {
+      "placement": 53,
+      "name": "Миха Довжан",
+      "hits": 9,
+      "time": "24:40.8",
+      "shootSpeed": 30
+    },
+    "54": {
+      "placement": 54,
+      "name": "Джордже Бута",
+      "hits": 9,
+      "time": "24:43.2",
+      "shootSpeed": 12
+    },
+    "55": {
+      "placement": 55,
+      "name": "Томмазо Джакомел",
+      "hits": 7,
+      "time": "24:43.8",
+      "shootSpeed": 20
+    },
+    "56": {
+      "placement": 56,
+      "name": "Михаил Усов",
+      "hits": 8,
+      "time": "24:46.9",
+      "shootSpeed": 27
+    },
+    "57": {
+      "placement": 57,
+      "name": "Артём Тищенко",
+      "hits": 10,
+      "time": "24:47.4",
+      "shootSpeed": 26
+    },
+    "58": {
+      "placement": 58,
+      "name": "F.F. ANDERSEN",
+      "hits": 7,
+      "time": "24:49.0",
+      "shootSpeed": 30
+    },
+    "59": {
+      "placement": 59,
+      "name": "Эндре Стрёмсхайм",
+      "hits": 8,
+      "time": "24:53.5",
+      "shootSpeed": 25
+    },
+    "60": {
+      "placement": 60,
+      "name": "Рок Тршан",
+      "hits": 9,
+      "time": "24:53.6",
+      "shootSpeed": 26
+    },
+    "61": {
+      "placement": 61,
+      "name": "Дмитрий Лазовский",
+      "hits": 9,
+      "time": "24:54.4",
+      "shootSpeed": 28
+    },
+    "62": {
+      "placement": 62,
+      "name": "Габриэл Стегмайр",
+      "hits": 9,
+      "time": "24:54.7",
+      "shootSpeed": 27
+    },
+    "63": {
+      "placement": 63,
+      "name": "Мартин Ягер",
+      "hits": 8,
+      "time": "24:55.8",
+      "shootSpeed": 15
+    },
+    "64": {
+      "placement": 64,
+      "name": "Кирилл Стрельцов",
+      "hits": 9,
+      "time": "24:56.9",
+      "shootSpeed": 24
+    },
+    "65": {
+      "placement": 65,
+      "name": "Шон Доэрти",
+      "hits": 7,
+      "time": "24:59.3",
+      "shootSpeed": 25
+    },
+    "66": {
+      "placement": 66,
+      "name": "Витаутас Строля",
+      "hits": 7,
+      "time": "25:02.4",
+      "shootSpeed": 16
+    },
+    "67": {
+      "placement": 67,
+      "name": "Эмильен Клод",
+      "hits": 8,
+      "time": "25:02.5",
+      "shootSpeed": 30
+    },
+    "68": {
+      "placement": 68,
+      "name": "Саид Каримулла Халили",
+      "hits": 7,
+      "time": "25:04.0",
+      "shootSpeed": 28
+    },
+    "69": {
+      "placement": 69,
+      "name": "Алекс Чисар",
+      "hits": 9,
+      "time": "25:04.7",
+      "shootSpeed": 30
+    },
+    "70": {
+      "placement": 70,
+      "name": "Владислав Киреев",
+      "hits": 9,
+      "time": "25:06.1",
+      "shootSpeed": 11
+    },
+    "71": {
+      "placement": 71,
+      "name": "Симон Бартко",
+      "hits": 7,
+      "time": "25:07.9",
+      "shootSpeed": 15
+    },
+    "72": {
+      "placement": 72,
+      "name": "Харольд Леммерер",
+      "hits": 7,
+      "time": "25:08.2",
+      "shootSpeed": 21
+    },
+    "73": {
+      "placement": 73,
+      "name": "Кристиан Гоу",
+      "hits": 8,
+      "time": "25:13.0",
+      "shootSpeed": 27
+    },
+    "74": {
+      "placement": 74,
+      "name": "Филипп Хорн",
+      "hits": 6,
+      "time": "25:13.4",
+      "shootSpeed": 15
+    },
+    "75": {
+      "placement": 75,
+      "name": "Михал Сима",
+      "hits": 8,
+      "time": "25:15.5",
+      "shootSpeed": 24
+    },
+    "76": {
+      "placement": 76,
+      "name": "E. PERROT",
+      "hits": 7,
+      "time": "25:15.6",
+      "shootSpeed": 22
+    },
+    "77": {
+      "placement": 77,
+      "name": "Томаш Хасилла",
+      "hits": 9,
+      "time": "25:15.8",
+      "shootSpeed": 28
+    },
+    "78": {
+      "placement": 78,
+      "name": "Рене Захкна",
+      "hits": 8,
+      "time": "25:16.2",
+      "shootSpeed": 17
+    },
+    "79": {
+      "placement": 79,
+      "name": "Витеслав Хорниг",
+      "hits": 9,
+      "time": "25:23.3",
+      "shootSpeed": 14
+    },
+    "80": {
+      "placement": 80,
+      "name": "Адам Вацлавик",
+      "hits": 7,
+      "time": "25:24.4",
+      "shootSpeed": 24
+    },
+    "81": {
+      "placement": 81,
+      "name": "Томас Каукенас",
+      "hits": 8,
+      "time": "25:33.2",
+      "shootSpeed": 28
+    },
+    "82": {
+      "placement": 82,
+      "name": "Дидье Бьона",
+      "hits": 7,
+      "time": "25:34.1",
+      "shootSpeed": 15
+    },
+    "83": {
+      "placement": 83,
+      "name": "Артём Прима",
+      "hits": 6,
+      "time": "25:34.4",
+      "shootSpeed": 13
+    },
+    "84": {
+      "placement": 84,
+      "name": "Хейкки Лайтинен",
+      "hits": 7,
+      "time": "25:39.2",
+      "shootSpeed": 19
+    },
+    "85": {
+      "placement": 85,
+      "name": "Рауль Антонио Флоре",
+      "hits": 8,
+      "time": "25:41.4",
+      "shootSpeed": 26
+    },
+    "86": {
+      "placement": 86,
+      "name": "Благой Тодев",
+      "hits": 8,
+      "time": "25:42.9",
+      "shootSpeed": 16
+    },
+    "87": {
+      "placement": 87,
+      "name": "Никлас Хартвег",
+      "hits": 6,
+      "time": "25:44.7",
+      "shootSpeed": 24
+    },
+    "88": {
+      "placement": 88,
+      "name": "Туомас Харьюла",
+      "hits": 8,
+      "time": "25:47.6",
+      "shootSpeed": 12
+    },
+    "89": {
+      "placement": 89,
+      "name": "Лейф Нордгрен",
+      "hits": 7,
+      "time": "25:47.8",
+      "shootSpeed": 10
+    },
+    "90": {
+      "placement": 90,
+      "name": "Кароль Домбровский",
+      "hits": 7,
+      "time": "25:50.4",
+      "shootSpeed": 13
+    },
+    "91": {
+      "placement": 91,
+      "name": "Микито Тачизаки",
+      "hits": 8,
+      "time": "25:51.1",
+      "shootSpeed": 11
+    },
+    "92": {
+      "placement": 92,
+      "name": "Линас Банис",
+      "hits": 8,
+      "time": "25:55.5",
+      "shootSpeed": 23
+    },
+    "93": {
+      "placement": 93,
+      "name": "Йоханнес Кюн",
+      "hits": 2,
+      "time": "26:03.6",
+      "shootSpeed": 20
+    },
+    "94": {
+      "placement": 94,
+      "name": "Александрс Патрюкс",
+      "hits": 6,
+      "time": "26:04.5",
+      "shootSpeed": 22
+    },
+    "95": {
+      "placement": 95,
+      "name": "Пол Шоммер",
+      "hits": 7,
+      "time": "26:07.4",
+      "shootSpeed": 21
+    },
+    "96": {
+      "placement": 96,
+      "name": "Кристо Сиймер",
+      "hits": 6,
+      "time": "26:13.6",
+      "shootSpeed": 30
+    },
+    "97": {
+      "placement": 97,
+      "name": "Роберт Хелдна",
+      "hits": 8,
+      "time": "26:14.6",
+      "shootSpeed": 15
+    },
+    "98": {
+      "placement": 98,
+      "name": "Павел Магазеев",
+      "hits": 5,
+      "time": "26:40.1",
+      "shootSpeed": 28
+    },
+    "99": {
+      "placement": 99,
+      "name": "Эдгарс Мисе",
+      "hits": 8,
+      "time": "26:57.8",
+      "shootSpeed": 14
+    },
+    "100": {
+      "placement": 100,
+      "name": "Сезар Бове",
+      "hits": 6,
+      "time": "27:26.6",
+      "shootSpeed": 20
+    }
+  }
+}
