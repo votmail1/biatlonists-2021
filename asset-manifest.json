@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/biatlonists-2021/static/css/main.8774af22.chunk.css",
-    "main.js": "/biatlonists-2021/static/js/main.6db98ae9.chunk.js",
-    "main.js.map": "/biatlonists-2021/static/js/main.6db98ae9.chunk.js.map",
+    "main.js": "/biatlonists-2021/static/js/main.d8f43519.chunk.js",
+    "main.js.map": "/biatlonists-2021/static/js/main.d8f43519.chunk.js.map",
     "runtime-main.js": "/biatlonists-2021/static/js/runtime-main.2c303de3.js",
     "runtime-main.js.map": "/biatlonists-2021/static/js/runtime-main.2c303de3.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/biatlonists-2021/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.9d776625.chunk.js",
     "static/css/main.8774af22.chunk.css",
-    "static/js/main.6db98ae9.chunk.js"
+    "static/js/main.d8f43519.chunk.js"
   ]
 }
