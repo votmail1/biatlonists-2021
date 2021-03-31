@@ -8,9 +8,7 @@ function App() {
     const [marker, setMarker] = useState(Object.values(data))
     const table = (Object.keys(list)).map(key => (
         <tr key={list[key].placement}>
-            <td className="pl-3">
-                <div className='placement '>{list[key].placement}</div>
-            </td>
+            <td className="placement pl-3">{list[key].placement}</td>
             <td className="name pl-0">{list[key].name}</td>
             <td className="hits pl-0">{list[key].hits}</td>
             <td className="shootSpeed pl-0">{list[key].shootSpeed}</td>
