@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import {data} from './champion-ship-results.json';
 import './App.css'
 
-
 function App() {
     const [list, setList] = useState(Object.values(data))
     const [marker, setMarker] = useState(Object.values(data))
@@ -54,29 +53,19 @@ function App() {
                     <tbody>
                     <tr>
                         <th className="placement pl-3" onClick={() => sortBy('placement')}>
-                            <div className='placement'>
-                                Позиция {marker.placement}
-                            </div>
+                            Позиция {marker.placement}
                         </th>
-                        <th className="pl-0" onClick={() => sortBy('name')}>
-                            <div className='name m-0'>
-                                Имя {marker.name}
-                            </div>
+                        <th className="name pl-0" onClick={() => sortBy('name')}>
+                            Имя {marker.name}
                         </th>
-                        <th className="pl-0" onClick={() => sortBy('hits')}>
-                            <div className='hits'>
-                                Попадания {marker.hits}
-                            </div>
+                        <th className="hits pl-0" onClick={() => sortBy('hits')}>
+                            Попадания {marker.hits}
                         </th>
-                        <th className="pl-0" onClick={() => sortBy('shootSpeed')}>
-                            <div className='shootSpeed'>
-                                Скорострельность {marker.shootSpeed}
-                            </div>
+                        <th className="shootSpeed pl-0" onClick={() => sortBy('shootSpeed')}>
+                            Скорострельность {marker.shootSpeed}
                         </th>
-                        <th className="pl-0" onClick={() => sortBy('time')}>
-                            <div className='time'>
-                                Время {marker.time}
-                            </div>
+                        <th className="time pl-0" onClick={() => sortBy('time')}>
+                            Время {marker.time}
                         </th>
                     </tr>
                     </tbody>
