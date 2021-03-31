@@ -1,0 +1,25 @@
+.placement{
+    width: 100px;
+    margin: 0;
+    padding: 0;
+}
+.name{
+    min-width: 200px;
+    margin: 0;
+    padding: 0;
+}
+.hits{
+    min-width: 150px;
+    margin: 0;
+    padding: 0;
+}
+.shootSpeed{
+    min-width: 190px;
+    margin: 0;
+    padding: 0;
+}
+.time{
+    min-width: 90px;
+    margin: 0;
+    padding: 0;
+}
