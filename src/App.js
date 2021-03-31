@@ -1,6 +1,6 @@
-import {useState} from "react";
-import 'bootstrap/dist/css/bootstrap.min.css';
-import {data} from './champion-ship-results.json';
+import React, {useState} from "react"
+import 'bootstrap/dist/css/bootstrap.min.css'
+import {data} from './champion-ship-results.json'
 import './App.css'
 
 function App() {
@@ -20,28 +20,31 @@ function App() {
     const sortBy = (x) => {
         const arr = [...list]
         const newMarker = {}
-        if (x === "name" || x === "placement" || x === "time") {
-            switch (marker[x]) {
-                case "▲":
-                    arr.sort((a, b) => a[x] > b[x] ? -1 : 1);
-                    newMarker[x] = "▼"
-                    break;
-                default:
-                    arr.sort((a, b) => a[x] > b[x] ? 1 : -1);
-                    newMarker[x] = "▲"
-                    break;
-            }
-        } else {
-            switch (marker[x]) {
-                case "▲":
-                    arr.sort((a, b) => a[x] > b[x] ? 1 : -1);
-                    newMarker[x] = "▼"
-                    break;
-                default:
-                    arr.sort((a, b) => a[x] > b[x] ? -1 : 1);
-                    newMarker[x] = "▲"
-                    break;
-            }
+        switch (x) {
+            case "name" || "placement" || "time":
+                switch (marker[x]) {
+                    case "▲":
+                        arr.sort((a, b) => a[x] > b[x] ? -1 : 1)
+                        newMarker[x] = "▼"
+                        break;
+                    default:
+                        arr.sort((a, b) => a[x] > b[x] ? 1 : -1)
+                        newMarker[x] = "▲"
+                        break;
+                }
+                break;
+            default:
+                switch (marker[x]) {
+                    case "▲":
+                        arr.sort((a, b) => a[x] > b[x] ? 1 : -1)
+                        newMarker[x] = "▼"
+                        break;
+                    default:
+                        arr.sort((a, b) => a[x] > b[x] ? -1 : 1)
+                        newMarker[x] = "▲"
+                        break;
+                }
+                break;
         }
         setList(Object.values(arr))
         setMarker(newMarker)
