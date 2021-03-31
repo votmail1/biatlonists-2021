@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/biatlonists-2021/static/css/main.8774af22.chunk.css",
-    "main.js": "/biatlonists-2021/static/js/main.d8f43519.chunk.js",
-    "main.js.map": "/biatlonists-2021/static/js/main.d8f43519.chunk.js.map",
+    "main.css": "/biatlonists-2021/static/css/main.6d77d108.chunk.css",
+    "main.js": "/biatlonists-2021/static/js/main.b98dc6fb.chunk.js",
+    "main.js.map": "/biatlonists-2021/static/js/main.b98dc6fb.chunk.js.map",
     "runtime-main.js": "/biatlonists-2021/static/js/runtime-main.2c303de3.js",
     "runtime-main.js.map": "/biatlonists-2021/static/js/runtime-main.2c303de3.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/biatlonists-2021/static/css/2.4c97ca4f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.9d776625.chunk.js.map": "/biatlonists-2021/static/js/2.9d776625.chunk.js.map",
     "index.html": "/biatlonists-2021/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/biatlonists-2021/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.8774af22.chunk.css.map": "/biatlonists-2021/static/css/main.8774af22.chunk.css.map",
+    "static/css/main.6d77d108.chunk.css.map": "/biatlonists-2021/static/css/main.6d77d108.chunk.css.map",
     "static/js/2.9d776625.chunk.js.LICENSE.txt": "/biatlonists-2021/static/js/2.9d776625.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2c303de3.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.9d776625.chunk.js",
-    "static/css/main.8774af22.chunk.css",
-    "static/js/main.d8f43519.chunk.js"
+    "static/css/main.6d77d108.chunk.css",
+    "static/js/main.b98dc6fb.chunk.js"
   ]
 }
